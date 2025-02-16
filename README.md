@@ -1,5 +1,5 @@
-# Robot-gallery
-A gallery of my original robot designs, mostly designed for RoboCup Junior Australia.
+# Robot Gallery  
+A gallery of my original robot designs, mostly designed for RoboCup Junior Australia.  
 
 ## Featured Robots  
 - **T418** – A sleek and efficient machine with a cutting-edge design.  
@@ -13,15 +13,9 @@ Feel free to browse the gallery for inspiration. All designs are my own creation
 ## License  
 Unless otherwise specified, these images are for personal viewing only. Please contact me for permission if you wish to use them elsewhere.  
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-*Designed for TEAPOT-418 (Tactically Efficacious Automaton for Practical Object Transportation Code 418) systems.*
-
-*© 2022 TEAPOT-418. All rights reserved.*
-*You may not copy, reproduce, distribute, transmit, modify, create derivative works, or in any other way exploit any part of copyrighted material without the prior written permission from TEAPOT-418.*
 ---
+
+<sub>*Designed for TEAPOT-418 (Tactically Efficacious Automaton for Practical Object Transportation Code 418) systems.*</sub>  
+
+<sub>© 2022 TEAPOT-418. All rights reserved.  
+You may not copy, reproduce, distribute, transmit, modify, create derivative works, or in any other way exploit any part of copyrighted material without prior written permission from TEAPOT-418.</sub>
