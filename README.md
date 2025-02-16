@@ -15,7 +15,5 @@ Unless otherwise specified, these images are for personal viewing only. Please c
 
 ---
 
-<sub>*Designed for TEAPOT-418 (Tactically Efficacious Automaton for Practical Object Transportation Code 418) systems.*</sub>  
-
-<sub>© 2022 TEAPOT-418. All rights reserved.  
-You may not copy, reproduce, distribute, transmit, modify, create derivative works, or in any other way exploit any part of copyrighted material without prior written permission from TEAPOT-418.</sub>
+<sub>*© 2022-2025 Ashton Doughty. All rights reserved.*  
+*You may not copy, reproduce, distribute, transmit, modify, create derivative works, or in any other way exploit any part of copyrighted material without prior written permission from Ashton Doughty.*</sub>
