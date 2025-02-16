@@ -5,7 +5,7 @@ A gallery of my original robot designs, mostly designed for RoboCup Junior Austr
 - **T418** – A sleek and efficient machine with a cutting-edge design.  
 - **Jankpot** – A scrappy, unpredictable bot with a lot of personality.  
 - **T4** – A refined evolution of previous models, blending form and function.  
-- **Robobox** – A versatile, all-purpose robotic unit.  
+- **Robox** – A versatile, all-purpose robotic unit.  
 
 ## Usage  
 Feel free to browse the gallery for inspiration. All designs are my own creations.  
