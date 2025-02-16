@@ -2,10 +2,10 @@
 A gallery of my original robot designs, mostly designed for RoboCup Junior Australia.  
 
 ## Featured Robots  
-- **T418** – A sleek and efficient machine with a cutting-edge design.  
-- **Jankpot** – A scrappy, unpredictable bot with a lot of personality.  
-- **T4** – A refined evolution of previous models, blending form and function.  
-- **Robox** – A versatile, all-purpose robotic unit.  
+- **T418** – 2022 Open Line competition robot.  
+- **Jankpot** – 2023 Open Line competition robot.  
+- **T4** – 2024 Open Line competition robot.  
+- **Robox** – Custom-built design.  
 
 ## Usage  
 Feel free to browse the gallery for inspiration. All designs are my own creations.  
