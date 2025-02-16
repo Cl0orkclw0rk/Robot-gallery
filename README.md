@@ -20,7 +20,8 @@ Unless otherwise specified, these images are for personal viewing only. Please c
 &nbsp;
 &nbsp;
 
-*Designed for TEAPOT-418, and all subsidiary systems.*
-*© 2022-2025 Clockwork_Studios. All rights reserved.*
-*You may not copy, reproduce, distribute, transmit, modify, create derivative works, or in any other way exploit any part of copyrighted material without the prior written permission from Clockwork_Studios.*
+*Designed for TEAPOT-418 (Tactically Efficacious Automaton for Practical Object Transportation Code 418) systems.*
+
+*© 2022 TEAPOT-418. All rights reserved.*
+*You may not copy, reproduce, distribute, transmit, modify, create derivative works, or in any other way exploit any part of copyrighted material without the prior written permission from TEAPOT-418.*
 ---
