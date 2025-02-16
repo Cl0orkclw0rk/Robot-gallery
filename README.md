@@ -13,5 +13,6 @@ Feel free to browse the gallery for inspiration. All designs are my own creation
 ## License  
 Unless otherwise specified, these images are for personal viewing only. Please contact me for permission if you wish to use them elsewhere.  
 
-### * © 2022-2025 Clockwork_Studios. All rights reserved. You may not copy, reproduce, distribute, transmit, modify, create derivative works, or in any other way exploit any part of copyrighted material without the prior written permission from Clockwork_Studios. *
+
+*© 2022-2025 Clockwork_Studios. All rights reserved. You may not copy, reproduce, distribute, transmit, modify, create derivative works, or in any other way exploit any part of copyrighted material without the prior written permission from Clockwork_Studios.*
 ---
