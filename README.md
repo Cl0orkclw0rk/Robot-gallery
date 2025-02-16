@@ -14,6 +14,3 @@ Feel free to browse the gallery for inspiration. All designs are my own creation
 Unless otherwise specified, these images are for personal viewing only. Please contact me for permission if you wish to use them elsewhere.  
 
 ---
-
-<sub>*© 2022-2025 Ashton Doughty. All rights reserved.*  
-*You may not copy, reproduce, distribute, transmit, modify, create derivative works, or in any other way exploit any part of copyrighted material without prior written permission from Ashton Doughty.*</sub>
